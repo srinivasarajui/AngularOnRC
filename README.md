@@ -1,5 +1,10 @@
 # AngularOnRC
 
+This is repo developed to demonstate on how to use Remote - Containers extension of VS Code for Angualr Development.
+
+The process is explained in this [blog](https://dev.to/srinivasarajui/angular-development-on-vs-code-and-docker-using-remote-containers-5a1a)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 ## Development server
